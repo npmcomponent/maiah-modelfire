@@ -1,0 +1,12 @@
+{
+  "name": "maiah-modelfire",
+  "description": "Model plugin that uses Firebase datasource",
+  "version": "0.0.1",
+  "keywords": [
+    "model",
+    "firebase"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
